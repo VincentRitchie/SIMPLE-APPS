@@ -127,7 +127,7 @@ Feel free to submit issues and enhancement requests. Pull requests are also welc
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/VincentRitchie/Simple-Todo-List-App/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VincentRitchie/SIMPLE-APPS/blob/main/LICENSE) file for details.
 
 ## Author
 
